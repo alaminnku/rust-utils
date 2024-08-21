@@ -1,0 +1,8 @@
+file-compressor
+file-extractor
+guessing-game
+minigrep
+practice
+
+*/target
+.DS_Store
